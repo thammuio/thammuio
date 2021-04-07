@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Metrics](https://metrics.lecoq.io/thammuio?template=classic&repositories=500&languages=1&lines=1&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FChicago)
+
 <!--
 **thammuio/thammuio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
